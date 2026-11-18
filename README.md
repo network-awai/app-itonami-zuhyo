@@ -14,3 +14,7 @@ The shared specification is a design proposal;
 The existing CLJS appview is a placeholder, not the planned presentation editor.
 The candidate `zuhyo.itonami.app` is not a claim of an available or deployed
 service.
+
+## Android
+
+See [the independent Tauri build](android/README.md).
